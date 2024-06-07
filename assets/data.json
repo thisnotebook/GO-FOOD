@@ -1,0 +1,321 @@
+[
+  {
+    "category": "Miscellaneous",
+    "meals": [
+        {
+            "name": "Vegetable Stir-Fry",
+            "image": "https://www.budgetbytes.com/wp-content/uploads/2022/03/Easy-Vegetable-Stir-Fry-close.jpg",
+            "price": "$5.00",
+            "smallInfo": "Fresh vegetables stir-fried to perfection."
+        },
+        {
+            "name": "Seafood Paella",
+            "image": "https://www.simplyrecipes.com/thmb/2GMHFcWEHZGOYbT4eoVCAu2uwsw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2018__07__Seafood-Paella-LEAD-VERTICAL-fc5f1e71baa8484cafa1a106ffaa9c23.jpg",
+            "price": "$18.00",
+            "smallInfo": "Spanish-style paella with a variety of seafood."
+        },
+        {
+            "name": "Quinoa Salad",
+            "image": "https://www.inspiredtaste.net/wp-content/uploads/2023/01/Quinoa-Salad-Recipe-Video.jpg",
+            "price": "$9.00",
+            "smallInfo": "Healthy and nutritious salad with quinoa."
+        },
+        {
+            "name": "Eggplant Parmesan",
+            "image": "https://www.allrecipes.com/thmb/v8J8OelKo1bEJ9RyekLtL89A_R0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4457679-eggplant-parmesan-gluten-free-Buckwheat-Queen-4x3-1-1380f16c6cc14e059f7ae7d741d390d9.jpg",
+            "price": "$12.00",
+            "smallInfo": "Classic Italian dish with layers of eggplant and cheese."
+        }
+    ]
+},
+    {
+      "category": "Lamb",
+      "meals": [
+        {
+          "name": "Lamb Chops",
+          "image": "https://cafedelites.com/wp-content/uploads/2018/02/Lamb-Chops-ONE-1.jpg",
+          "price": "$15.00",
+          "smallInfo": "Juicy and tender lamb chops."
+        },
+        {
+          "name": "Lamb Stew",
+          "image": "https://natashaskitchen.com/wp-content/uploads/2018/03/Lamb-Stew-5.jpg",
+          "price": "$12.00",
+          "smallInfo": "Hearty and flavorful lamb stew."
+        },
+        {
+          "name": "Lamb Curry",
+          "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2023/04/lamb-curry-recipe.jpg",
+          "price": "$14.00",
+          "smallInfo": "Spicy and delicious lamb curry."
+        },
+        {
+          "name": "Lamb Kebabs",
+          "image": "https://www.themediterraneandish.com/wp-content/uploads/2021/04/lamb-kabobs-recipe-6.jpg",
+          "price": "$13.00",
+          "smallInfo": "Grilled lamb kebabs with spices."
+        }
+      ]
+    },
+    {
+      "category": "Pasta",
+      "meals": [
+        {
+          "name": "Spaghetti Bolognese",
+          "image": "https://www.kitchensanctuary.com/wp-content/uploads/2019/09/Spaghetti-Bolognese-square-FS-0204.jpg",
+          "price": "$10.00",
+          "smallInfo": "Classic Italian pasta with meat sauce."
+        },
+        {
+          "name": "Penne Alfredo",
+          "image": "https://www.licious.in/blog/wp-content/uploads/2020/12/Penne-Alfredo.jpg",
+          "price": "$11.00",
+          "smallInfo": "Creamy penne pasta with Alfredo sauce."
+        },
+        {
+          "name": "Lasagna",
+          "image": "https://static.toiimg.com/thumb/55369113.cms?width=1200&height=900",
+          "price": "$12.00",
+          "smallInfo": "Layers of pasta, meat, and cheese."
+        },
+        {
+          "name": "Macaroni and Cheese",
+          "image": "https://www.budgetbytes.com/wp-content/uploads/2023/03/BakedMacandCheesesidespoon.jpg",
+          "price": "$9.00",
+          "smallInfo": "Cheesy and creamy macaroni pasta."
+        }
+      ]
+    },
+    {
+      "category": "Pork",
+      "meals": [
+        {
+          "name": "Pork Chops",
+          "image": "https://www.budgetbytes.com/wp-content/uploads/2010/08/Glazed-Pork-Chops-close-2-1.jpg",
+          "price": "$12.00",
+          "smallInfo": "Grilled pork chops with seasoning."
+        },
+        {
+          "name": "Pulled Pork Sandwich",
+          "image": "https://butteryourbiscuit.com/wp-content/uploads/2016/03/slow-cooker-pulled-pork-sandwich-4-scaled.jpeg",
+          "price": "$10.00",
+          "smallInfo": "Tender pulled pork in a bun."
+        },
+        {
+          "name": "Pork Ribs",
+          "image": "https://assets.bonappetit.com/photos/5d7fa293be004100080f501f/master/pass/1019-WOL-Miso-Pork-Ribs-2.jpg",
+          "price": "$15.00",
+          "smallInfo": "Juicy and flavorful pork ribs."
+        },
+        {
+          "name": "Pork Belly",
+          "image": "https://www.kitchensanctuary.com/wp-content/uploads/2018/10/Sticky-Chinese-Pork-Belly-tall1-6.webp",
+          "price": "$14.00",
+          "smallInfo": "Crispy and tender pork belly."
+        }
+      ]
+    },
+    {
+      "category": "Seafood",
+      "meals": [
+        {
+          "name": "Grilled Salmon",
+          "image": "https://www.thespruceeats.com/thmb/HgM2h42z1HGEcSWkWk5CgAjDDpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-grill-salmon-2216658-hero-01-a9c948f8a238400ebaafc0caf509c7fa.jpg",
+          "price": "$15.00",
+          "smallInfo": "Freshly grilled salmon with herbs."
+        },
+        {
+          "name": "Shrimp Scampi",
+          "image": "https://recipes.net/wp-content/uploads/2021/09/shrimp-scampi-olive-garden-recipe-copycat.jpg",
+          "price": "$14.00",
+          "smallInfo": "Garlic butter shrimp scampi."
+        },
+        {
+          "name": "Lobster Tail",
+          "image": "https://therecipecritic.com/wp-content/uploads/2020/01/broiled_lobster.jpg",
+          "price": "$20.00",
+          "smallInfo": "Succulent and buttery lobster tail."
+        },
+        {
+          "name": "Crab Cakes",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2Wq1gsd1-YvJGDu_Bm3LksKsks2HLUQeM0A&s",
+          "price": "$18.00",
+          "smallInfo": "Crispy and savory crab cakes."
+        }
+      ]
+    },
+    {
+      "category": "Side",
+      "meals": [
+        {
+          "name": "Garlic Bread",
+          "image": "https://spicecravings.com/wp-content/uploads/2021/09/Air-Fryer-Garlic-Bread-Featured.jpg",
+          "price": "$4.00",
+          "smallInfo": "Toasted bread with garlic butter."
+        },
+        {
+          "name": "Caesar Salad",
+          "image": "https://www.fromvalerieskitchen.com/wordpress/wp-content/uploads/2023/08/Grilled-Chicken-Caesar-Salad-11.jpg",
+          "price": "$6.00",
+          "smallInfo": "Crispy salad with Caesar dressing."
+        },
+        {
+          "name": "French Fries",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/French_Fries.JPG",
+          "price": "$3.00",
+          "smallInfo": "Golden and crispy French fries."
+        },
+        {
+          "name": "Mashed Potatoes",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Sous_vide_mashed_potatoes.jpg/640px-Sous_vide_mashed_potatoes.jpg",
+          "price": "$5.00",
+          "smallInfo": "Creamy and buttery mashed potatoes."
+        }
+      ]
+    },
+    {
+      "category": "Starter",
+      "meals": [
+        {
+          "name": "Bruschetta",
+          "image": "https://images.themodernproper.com/billowy-turkey/production/posts/TomatoandAvocadoBruschetta_8.jpg?w=960&h=960&q=82&fm=jpg&fit=crop&dm=1690997775&s=af9659ac4cf0f27fd1520406db233b16",
+          "price": "$7.00",
+          "smallInfo": "Toasted bread with tomato topping."
+        },
+        {
+          "name": "Stuffed Mushrooms",
+          "image": "https://cdn.loveandlemons.com/wp-content/uploads/2019/12/stuffed-mushrooms-2.jpg",
+          "price": "$8.00",
+          "smallInfo": "Mushrooms stuffed with cheese and herbs."
+        },
+        {
+          "name": "Chicken Wings",
+          "image": "https://www.allrecipes.com/thmb/AtViolcfVtInHgq_mRtv4tPZASQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-187822-baked-chicken-wings-4x3-5c7b4624c8554f3da5aabb7d3a91a209.jpg",
+          "price": "$9.00",
+          "smallInfo": "Spicy and crispy chicken wings."
+        },
+        {
+          "name": "Spring Rolls",
+          "image": "https://img.freepik.com/free-photo/fried-spring-rolls-cutting-board_1150-17010.jpg?w=1060&t=st=1717750690~exp=1717751290~hmac=e930425c974206cb4c83bca98aa8f09c953f33d270d2c35487c158d1dab03ff2",
+          "price": "$6.00",
+          "smallInfo": "Crispy vegetable spring rolls."
+        }
+      ]
+    },
+    {
+      "category": "Vegan",
+      "meals": [
+        {
+          "name": "Vegan Burger",
+          "image": "https://elavegan.com/wp-content/uploads/2019/09/Vegan-burger-with-Awesome-burger-patty-veggies-and-homemade-cheese.jpg",
+          "price": "$10.00",
+          "smallInfo": "Delicious plant-based burger."
+        },
+        {
+          "name": "Vegan Tacos",
+          "image": "https://cdn77-s3.lazycatkitchen.com/wp-content/uploads/2023/09/vegan-tacos-close-up-800x1200.jpg    ",
+          "price": "$9.00",
+          "smallInfo": "Tasty and healthy vegan tacos."
+        },
+        {
+          "name": "Vegan Pizza",
+          "image": "https://jessicainthekitchen.com/wp-content/uploads/2020/05/Vegan-Pizza-3-1.jpg",
+          "price": "$11.00",
+          "smallInfo": "Pizza with vegan cheese and toppings."
+        },
+        {
+          "name": "Vegan Sushi",
+          "image": "https://www.justonecookbook.com/wp-content/uploads/2023/05/Vegetarian-Sushi-Rolls-9707-I-1.jpg",
+          "price": "$12.00",
+          "smallInfo": "Fresh and tasty vegan sushi."
+        }
+      ]
+    },
+    {
+      "category": "Vegetarian",
+      "meals": [
+        {
+          "name": "Vegetarian Lasagna",
+          "image": "https://myfoodstory.com/wp-content/uploads/2019/11/Easy-Vegetarian-Lasagna-5.jpg",
+          "price": "$12.00",
+          "smallInfo": "Lasagna with vegetables and cheese."
+        },
+        {
+          "name": "Vegetarian Burrito",
+          "image": "https://www.noracooks.com/wp-content/uploads/2018/03/square.jpg",
+          "price": "$9.00",
+          "smallInfo": "Burrito filled with vegetables and beans."
+        },
+        {
+          "name": "Vegetarian Curry",
+          "image": "https://www.noracooks.com/wp-content/uploads/2022/08/vegan-curry-8.jpg",
+          "price": "$10.00",
+          "smallInfo": "Spicy and flavorful vegetable curry."
+        },
+        {
+          "name": "Vegetarian Pasta",
+          "image": "https://www.eatingwell.com/thmb/01DkJoDg4e9u8oKHV7j79MkZux8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Spaghetti-with-Baked-Brie-Mushrooms-Spinach-dca7ad0b8a8f4156b78baf9debc988b3.jpg",
+          "price": "$11.00",
+          "smallInfo": "Pasta with vegetables and tomato sauce."
+        }
+      ]
+    },
+    {
+      "category": "Breakfast",
+      "meals": [
+        {
+          "name": "Pancakes",
+          "image": "https://www.inspiredtaste.net/wp-content/uploads/2024/03/Easy-Fluffy-Pancakes-Recipe-Video.jpg",
+          "price": "$8.00",
+          "smallInfo": "Fluffy and delicious pancakes."
+        },
+        {
+          "name": "Omelette",
+          "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/omelette-3cba9f8.jpg?quality=90&resize=440,400",
+          "price": "$7.00",
+          "smallInfo": "Omelette with vegetables and cheese."
+        },
+        {
+          "name": "French Toast",
+          "image": "https://www.allrecipes.com/thmb/Tnxt9xyMMv32-mNgMVtN9ybLQxg=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/7016-french-toast-i-DDMFS-4x3-26c468d9cb284c2c83432bf2d33d49f8.jpg",
+          "price": "$9.00",
+          "smallInfo": "Sweet and crispy French toast."
+        },
+        {
+          "name": "Smoothie Bowl",
+          "image": "https://minimalistbaker.com/wp-content/uploads/2016/07/The-PERFECT-5-minute-Smoothie-Bowl-Simple-ingredients-naturally-sweet-SO-healthy-vegan-glutenfree-smoothiebowl-recipe.jpg",
+          "price": "$10.00",
+          "smallInfo": "Healthy and refreshing smoothie bowl."
+        }
+      ]
+    },
+    {
+        "category": "Goat",
+        "meals": [
+          {
+            "name": "Goat Biryani ",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/%22Hyderabadi_Dum_Biryani%22.jpg",
+            "price": "$18.00",
+            "smallInfo": "Rice-based dish from Indian subcontinent"
+          },
+          {
+            "name": "Gosht",
+            "image": "https://media.istockphoto.com/id/1421211322/photo/dal-gosht-or-daal-gosht-is-one-of-the-very-popular-mutton-recipes-in-india-mutton-cooked-with.jpg?s=612x612&w=0&k=20&c=f5kPu_jcTX8O5Jf4jAMQItuzcyGKb3RfveTd5_m-ugU=",
+            "price": "$7.00",
+            "smallInfo": "Tender meat, cooked for a long time."
+          },
+          {
+            "name": "Nihari",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Mutton_Nihari.jpg",
+            "price": "$9.00",
+            "smallInfo": "The food of Nawabs of Mughals Empire"
+          },
+          {
+            "name": "Haleem",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Haleem_hyderabadi.jpg",
+            "price": "$10.00",
+            "smallInfo": "Slow cooked Healthy stew."
+          }
+        ]
+      }
+    ]
